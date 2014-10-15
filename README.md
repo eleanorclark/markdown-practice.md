@@ -1,15 +1,22 @@
 markdown-practice.md
 ====================
-<h3>###American Horror Story<h3>
+<h4>American Horror Story<h4>
 ![Alt text](/path/to/americanhorrorstory.jpg)
 **Season 1**
-*My favourite scenes*
+
+*My favourite scenes:*
 > Tate and Violet first meeting
+
 > Halloween night
+
 > The family dying together
-<em>My favourite actors</em>
+
+<em>My favourite actor:</em>
+
 > Evan Peters
+
 [Visit American Horror Story's site!](www.americanhorrorstory.com)
+
 *Some of the characters*
 - Ben 
 - Vivien 
@@ -17,6 +24,7 @@ markdown-practice.md
 - Tate 
 - Constance
 - Hayden
+- 
 *Steps on how to watch season 1*
 1. Go on Netflix or (www.watchtvseries.com)
 2. If on Netflix, simply type in 'American Horror Story' in the search engine
